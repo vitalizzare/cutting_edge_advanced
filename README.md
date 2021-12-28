@@ -6,3 +6,5 @@ Quizlets for the Cutting edge: Advanced course of English, Longman, 8-th impress
 [Module 3](./Module%203)<br>
 [Module 4](./Module%204)<br>
 [Module 5](./Module%205)<br>
+[Module 6](./Module%206)<br>
+[Module 7](./Module%207)<br>
